@@ -1,3 +1,1 @@
-# TODO
-- AI's aren't facing the player after positionning themselves behind them.
-- Implement a skeletal mesh AI pawn with animations.
+Simple demo using BT's and EQS to implement an AI that hides from the player when seen and follows them when not seen.
